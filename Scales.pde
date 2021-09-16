@@ -20,7 +20,6 @@ void scale(int x, int y) {
     curveVertex(x, 40+y);
     curveVertex(x+0, 80+y);
     curveVertex(60+x, 40+y);
-
     curveVertex(x+0, 80+y);
     curveVertex(60+x, 50+y);
     curveVertex(60+x,70+y);
